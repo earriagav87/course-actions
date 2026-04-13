@@ -1,3 +1,4 @@
+name: Aprendiendo GitHub Actions
 on: [push]
 jobs:
   setup-java:
